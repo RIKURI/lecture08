@@ -1,0 +1,31 @@
+html{
+  font-size: 18px;
+}
+
+#message{
+  font-size: 144%;
+}
+
+.xlarge{
+  font-size: 200%;
+}
+
+.large{
+  font-size: 144%;
+}
+
+.small{
+  font-size: 80%;
+}
+
+.success{
+  background-color: #dff0d8;
+}
+
+.warning{
+  background-color: #fcf8e3;
+}
+
+.error{
+  background-color: #f2dede;
+}
